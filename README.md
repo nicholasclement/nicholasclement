@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nicholasclement
-- 👀 I’m interested in web3, gaming, fantasy football
+- 👋 Hi, I’m @clementcodes
+- 👀 I’m interested in tech, gaming, fantasy football
 - 🌱 I’m currently learning basic front end development
 - 📫 How to reach me: nickclement.tech@gmail.com
 
